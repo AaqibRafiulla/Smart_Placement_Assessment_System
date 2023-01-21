@@ -20,8 +20,4 @@ Flask
 *For complete working ,use the RFModel.sav given*
 
 
-Author
--------
-Chethan N(czyum)
-
 
